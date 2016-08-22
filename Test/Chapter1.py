@@ -29,12 +29,12 @@ print("------------------------------------------ Exercise 3: Understanding your
 
 
 # Use .describe() to see summaries of rows and columns in the train and test datasets
-train.describe()
-test.describe()
+#train.describe()
+#test.describe()
 
 # Print the dimensions of the datasets
-print(train.shape)
-print(test.shape)
+#print(train.shape)
+#print(test.shape)
 
 # Answer: The training set has 891 observations and 12 variables, count for Age is 714.
 
@@ -97,5 +97,6 @@ test_one=test
 test_one["Survived"] = 0
 
 # Set Survived to 1 if Sex equals "female" and print the `Survived` column from `test_one`
-test_one["Survived"][test_one["Sex"] == "female"]=1
+#test_one["Survived"][test_one["Sex"] == "female"]=1
+test_one.loc[ (test_one.Sex=="female"), 'Survived'] = 1
 print(test_one["Survived"])

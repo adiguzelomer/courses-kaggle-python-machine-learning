@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7e364fd-0fa2-48dd-acf2-6d30dfc8c7e9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/Chapter1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/Chapter1.py" afterPath="$PROJECT_DIR$/Test/Chapter1.py" />
     </list>
     <ignored path="courses-kaggle-python-machine-learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +45,8 @@
       <file leaf-file-name="Chapter1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/Chapter1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+            <state relative-caret-position="357">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -388,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/Chapter1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
+        <state relative-caret-position="357">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding />
         </state>
       </provider>
